@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+body{
+background-image: url("/Chapters.htmls/kite/kitequestion/images/bgblack.png");
+background-size: 1540px;
+overflow: hidden;
+}
+h1{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(251, 255, 0);
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size:100px;
+    }
+    .para1{
+        font-family: "Cabin Sketch", fantasy;
+        color: rgb(0, 183, 255);
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: -60px;
+    
+    }
+    .para2{
+        font-family: "Cabin Sketch", fantasy;
+        color: rgb(255, 107, 235); 
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .para3{
+        font-family: "Cabin Sketch", fantasy;
+        color: rgb(117, 255, 104); 
+        font-size: 30px;
+        margin-left: 50px;
+        margin-top: 10px;
+    }
+    .para4{
+        font-family: "Cabin Sketch", fantasy;
+        color: rgb(117, 255, 104); 
+        font-size: 30px;
+        margin-left: 80px;
+    }
+    
+    .left{
+    transform: scale(0.6);
+    margin-top: 370px;
+    margin-left: -335px;
+    }
+    .right{
+    transform: scale(0.6);
+    margin-top: -98px;
+    margin-left: 1425px;
+    }
+    .oldman{
+    transform: scale(1.2);
+    margin-top: -1100px;
+    margin-left: 400px;
+    }
+    .video{
+    transform: scale(0.50);
+    margin-left: -320px;
+    margin-top: -640px;
+        
+    }

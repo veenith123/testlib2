@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+body{
+background-image: url("images/bgblack.png");
+background-size: cover;
+overflow: hidden;
+}
+h1{
+font-family: "Cabin Sketch", fantasy;
+color: rgb(251, 255, 0);
+margin-left: 630px;
+margin-top: 30px;
+font-size:120px;
+}
+.para1{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(0, 183, 255);
+    font-size: 30px;
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+.para2{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(255, 107, 235); 
+    font-size: 30px;
+    margin-left: 50px;
+}
+.MeaningWord{
+visibility: hidden;
+}
+.meaningword{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(0, 242, 250); 
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: -535px;
+}
+.string{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(0, 173, 241); 
+    font-size: 30px;
+    margin-left: 500px;
+}
+.stringtext{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(255, 52, 137); 
+    font-size: 30px;
+    margin-left: 500px; 
+}
+.caper{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(0, 173, 241); 
+    font-size: 30px;
+    margin-left: 500px;
+}
+.capertext{
+    font-family: "Cabin Sketch", fantasy;
+    color: rgb(255, 52, 137); 
+    font-size: 30px;
+    margin-left: 500px;
+}
+
+.video{
+    transform: scale(0.55);
+    margin-left: 250px;
+    margin-top: -750px;
+    
+}
+.left{
+transform: scale(0.6);
+margin-top: -335px;
+margin-left: -335px;
+}
+.right{
+transform: scale(0.6);
+margin-top: -98px;
+margin-left: 1425px;
+}
